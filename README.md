@@ -1,6 +1,9 @@
 # GetNews
+:memo:
 :point_right: This is an Flutter mobile application where you can see the different types of news.
-:bell: Using #newsapi
+:bell: Using * newsapi.
+
+:dart: 
 
 # Google Fonts used for this project:
 :pencil2: Followings are the some google fonts which i have used in this project.
