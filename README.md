@@ -1,8 +1,11 @@
 # GetNews
-:memo:
 :point_right: This is an Flutter mobile application where you can see the different types of news.
 
-:bell: Using newsapi.
+:bell: In this project i have used newsapi key.
+
+You can get a newsapi key by registering following link:
+
+:books: https://newsapi.org/
 
 
 # Google Fonts used for this project:
@@ -17,3 +20,5 @@
 * nunitoSemiBold.
 * Quando.
 * Satisfy.
+
+
