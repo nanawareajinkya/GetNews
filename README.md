@@ -5,7 +5,8 @@
 Followings are the some google fonts which i have used in this project.
 -Download all fonts by using following link.
 :pencil2:
-  - https://fonts.google.com/
+- 
+  :white_check_mark: https://fonts.google.com/
 
 * Alike-Regular.
 * nunitoBold.
