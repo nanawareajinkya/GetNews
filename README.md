@@ -1,7 +1,14 @@
 # GetNews
-This is an Flutter mobile application where you can see the different types of news.
+:point_right: This is an Flutter mobile application where you can see the different types of news.
 
-# Google Fonts
+# Google Fonts used for this project:
+Followings are the some google fonts which i have used in this project.
+-Download all fonts by using following link.
+:pencil2:
+  - https://fonts.google.com/
 
-git add aj.jpg
-
+* Alike-Regular.
+* nunitoBold.
+* nunitoSemiBold.
+* Quando.
+* Satisfy.
