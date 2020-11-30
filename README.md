@@ -3,7 +3,7 @@
 
 # Google Fonts used for this project:
 :pencil2: Followings are the some google fonts which i have used in this project.
--Download all fonts by using following link. :pencil2:
+-Download all fonts by using following link.
 
 
  :white_check_mark: https://fonts.google.com/
