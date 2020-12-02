@@ -27,5 +27,5 @@ You can get a newsapi key by registering following link:
 :e-mail: nanawareajinkya46@gmail.com
 
 # Show Support:
-Give a ⭐️ if this project helpfull.
+Give a ⭐️ if this project helpful.
 
