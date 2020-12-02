@@ -7,7 +7,7 @@
 
 You can get a newsapi key by registering following link:
 
-:books: https://newsapi.org/
+:white_check_mark: https://newsapi.org/
 
 
 # Google Fonts used for this project:
