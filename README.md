@@ -1,5 +1,6 @@
 # LookNewsApp
-:point_right: This is an Flutter mobile application where you can see the different types of news.This app is available with differents types of news category.
+:point_right: This is an Flutter mobile application where you can see the different types of news.
+:point_right: This app is available with differents types of news categories and updating realtime.
 
 :bell: In this project i have used newsapi key.
 
